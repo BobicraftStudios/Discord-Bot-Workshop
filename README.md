@@ -22,3 +22,5 @@ Las diapositivas del taller están disponibles en: https://l.sweetsofimc.dev/wor
 
 A su vez, este repo cuenta con referencia redundante para compartir en: https://l.sweetsofimc.dev/workshop-bobicraft-repo
 
+
+*Disclaimer: This repository is no longer being maintained and we've deactivated dependency alerts and vulnerability reports. Be aware that if you use this template using these exact dependencies, you might have to run your own analysis on the vulnerability of the code before going to production.*
