@@ -1,0 +1,5 @@
+{
+    "token":"Tu token va aquí",
+    "guildId": "Click derecho en el server, copiar ID",
+    "clientId": "El client ID está en la sección OAuth de tu Bot en https://discord.dev"  
+}
